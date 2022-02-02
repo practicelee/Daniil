@@ -1,0 +1,20 @@
+body{
+    padding:10vh;
+    text-align: center;
+}
+img{
+    width:400px;
+    height:400px;
+}
+p.a{
+    font:24px/1 "arial";
+    padding-top:20px;
+
+}
+p.b{
+    color:white;
+    font:24px/1 "arial";
+}
+p.b:hover{
+    color:hotpink;
+}
